@@ -7,3 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Andy Pratama Julianto, [linkedin](www.linkedin.com/in/andy-pratama-julian).
+* AndCandy_, [Instagram](https://www.instagram.com/andcandy_/).
